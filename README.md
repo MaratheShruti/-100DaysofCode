@@ -8,3 +8,7 @@ Day 6 : -
 Day 7 : Hangman
 Day 8 : Caesar Cipher
 Day 9 : Secret bid auction
+Day 10 : Calculator
+Day 11: Capstone project_Blackjack
+Day 12: Guess the number
+Day 13: -
